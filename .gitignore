@@ -1,0 +1,14 @@
+# idea
+*.idea
+
+# gradle
+build
+*.gradle
+!*build.gradle
+!*settings.gradle
+bot.cfg
+*.jar
+/database/
+*.iml
+*.xml
+out
